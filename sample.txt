@@ -1,0 +1,19 @@
+this is public data
+
+pwd: present working directory
+ls: ls-list of files/folder in pwd
+cd .. : (change directory) to move back 1 folder 
+cd{folder name} : to move the specific directory 
+mkdir: {create folder} make directory
+rkdir: remove directory{folder remove}
+clear: remove all previous commands on screen(Linux)
+cls: windows
+touch: {create file}
+rm: removes files
+
+git init:
+git status
+git add . /git add -A
+git commit -m {message}
+
+for two words we use"" 
